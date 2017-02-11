@@ -1,0 +1,3 @@
+[submodule "syncwithus-landing"]
+	path = syncwithus-landing
+	url = https://github.com/jackowayed/syncwithus-landing.git
